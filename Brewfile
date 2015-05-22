@@ -7,6 +7,7 @@ brew brew-cask
 cask amazon-cloud-drive
 cask android-studio
 cask appcleaner
+cask atom
 cask bittorrent-sync
 cask coteditor
 cask drobo-dashboard
@@ -25,6 +26,8 @@ cask libreoffice
 cask mactex
 cask mendeley-desktop
 cask miro-video-converter
+cask omnigraffle
+cask omnioutliner
 cask omnipresence
 cask opera
 cask processing
