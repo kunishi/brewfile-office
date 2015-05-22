@@ -13,6 +13,7 @@ cask coteditor
 cask drobo-dashboard
 cask dropbox
 cask github
+cask google-chrome
 cask google-drive
 cask google-earth
 cask google-web-designer
