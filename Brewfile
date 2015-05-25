@@ -44,6 +44,11 @@ cask visual-studio-code
 cask vlc
 cask xquartz
 
+## caskroom/versions
+tap caskroom/versions
+cask firefox-ja
+cask firefoxdeveloperedition-ja
+
 ## homebrew/dupes
 tap homebrew/dupes
 brew apple-gcc42
