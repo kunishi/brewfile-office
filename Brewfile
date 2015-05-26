@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask alfred
 cask amazon-cloud-drive
 cask android-studio
 cask appcleaner
@@ -48,6 +49,7 @@ cask xquartz
 tap caskroom/versions
 cask firefox-ja
 cask firefoxdeveloperedition-ja
+cask sublime-text3
 
 ## homebrew/dupes
 tap homebrew/dupes
