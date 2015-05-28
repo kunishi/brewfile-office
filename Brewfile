@@ -50,6 +50,7 @@ tap caskroom/versions
 cask firefox-ja
 cask firefoxdeveloperedition-ja
 cask sublime-text3
+cask thunderbird-ja
 
 ## homebrew/dupes
 tap homebrew/dupes
@@ -73,9 +74,6 @@ brew phpunit
 ## homebrew/versions
 tap homebrew/versions
 brew perl516
-
-## josegonzalez/php
-tap josegonzalez/php
 
 ## peco/peco
 tap peco/peco
