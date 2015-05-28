@@ -53,16 +53,11 @@ cask sublime-text3
 
 ## homebrew/dupes
 tap homebrew/dupes
-brew apple-gcc42
 brew gdb
 brew zlib
 
-## homebrew/versions
-tap homebrew/versions
-brew perl516
-
-## josegonzalez/php
-tap josegonzalez/php
+## homebrew/php
+tap homebrew/php
 brew boris
 brew composer
 brew php55-mailparse
@@ -74,6 +69,13 @@ brew phploc
 brew phpmd
 brew phpunit-skeleton-generator
 brew phpunit
+
+## homebrew/versions
+tap homebrew/versions
+brew perl516
+
+## josegonzalez/php
+tap josegonzalez/php
 
 ## peco/peco
 tap peco/peco
