@@ -61,7 +61,6 @@ tap homebrew/php
 brew boris
 brew composer
 brew php55-mailparse
-brew php55-mcrypt
 brew php55-xdebug
 brew php55
 brew phpcpd
@@ -89,6 +88,7 @@ brew cairo
 brew clisp
 brew cloog
 brew cmake
+brew curl --with-openssl
 brew dirmngr
 brew elixir
 brew erlang
