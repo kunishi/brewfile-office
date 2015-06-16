@@ -23,6 +23,7 @@ cask imageoptim
 cask intellij-idea-ce
 cask iterm2
 cask java
+cask karabiner
 cask libreoffice
 cask mactex
 cask mendeley-desktop
@@ -61,6 +62,7 @@ tap homebrew/php
 brew boris
 brew composer
 brew php55-mailparse
+brew php55-mcrypt
 brew php55-xdebug
 brew php55
 brew phpcpd
