@@ -90,7 +90,6 @@ brew cairo
 brew clisp
 brew cloog
 brew cmake
-brew curl --with-openssl
 brew dirmngr
 brew elixir
 brew erlang
