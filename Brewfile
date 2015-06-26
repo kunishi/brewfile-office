@@ -42,6 +42,7 @@ cask thunderbird
 cask transmit
 cask virtualbox
 cask visual-studio-code
+cask vivaldi
 cask vlc
 cask xquartz
 
