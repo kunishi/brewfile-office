@@ -10,6 +10,7 @@ cask android-studio
 cask appcleaner
 cask atom
 cask bittorrent-sync
+cask chefdk
 cask coteditor
 cask drobo-dashboard
 cask dropbox
@@ -40,6 +41,7 @@ cask sourcetree
 cask textmate
 cask thunderbird
 cask transmit
+cask vagrant
 cask virtualbox
 cask visual-studio-code
 cask vivaldi
