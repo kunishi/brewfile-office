@@ -12,7 +12,6 @@ cask atom
 cask bittorrent-sync
 cask chefdk
 cask coteditor
-cask drobo-dashboard
 cask dropbox
 cask github
 cask gmvault
