@@ -50,7 +50,6 @@ cask xquartz
 
 ## caskroom/versions
 tap caskroom/versions
-cask firefox-ja
 cask firefoxdeveloperedition-ja
 cask sublime-text3
 cask thunderbird-ja
@@ -90,6 +89,7 @@ brew brew-file
 brew autoconf
 brew automake
 brew cairo
+brew chromedriver
 brew clisp
 brew cloog
 brew cmake
