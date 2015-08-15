@@ -13,7 +13,6 @@ cask bittorrent-sync
 cask chefdk
 cask coteditor
 cask dropbox
-cask github
 cask gmvault
 cask google-drive
 cask google-earth
@@ -150,6 +149,7 @@ brew mpfr
 brew mysql
 brew nkf
 brew objective-caml
+brew ocaml
 brew open-sp
 brew openssl
 brew ossp-uuid
@@ -186,6 +186,11 @@ brew x264
 brew xmlsh
 brew xvid
 brew xz
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask github (!)
 
 # App Store applications
 appstore 1Password
