@@ -13,6 +13,7 @@ cask bittorrent-sync
 cask chefdk
 cask coteditor
 cask dropbox
+cask github-desktop
 cask gmvault
 cask google-drive
 cask google-earth
@@ -51,7 +52,7 @@ cask xquartz
 tap caskroom/versions
 cask firefox-ja
 cask firefoxdeveloperedition-ja
-cask sublime-text3
+cask sublime-text-dev
 cask thunderbird-ja
 
 ## homebrew/dupes
@@ -186,11 +187,6 @@ brew x264
 brew xmlsh
 brew xvid
 brew xz
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask github (!)
 
 # App Store applications
 appstore 1Password
