@@ -122,6 +122,7 @@ brew imagemagick
 brew ios-sim
 brew isl
 brew jpeg
+brew julius
 brew lame
 brew lftp
 brew libassuan
