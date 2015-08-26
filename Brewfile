@@ -19,6 +19,7 @@ cask google-drive
 cask google-earth
 cask google-web-designer
 cask handbrake
+cask haskell-platform
 cask imagealpha
 cask imageoptim
 cask intellij-idea-ce
