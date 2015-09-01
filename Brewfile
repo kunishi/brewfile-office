@@ -24,7 +24,6 @@ cask imagealpha
 cask imageoptim
 cask intellij-idea-ce
 cask iterm2
-cask java
 cask karabiner
 cask libreoffice
 cask mactex
