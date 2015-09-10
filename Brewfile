@@ -22,7 +22,6 @@ cask handbrake
 cask haskell-platform
 cask imagealpha
 cask imageoptim
-cask intellij-idea-ce
 cask iterm2
 cask karabiner
 cask libreoffice
