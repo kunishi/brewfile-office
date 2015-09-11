@@ -137,6 +137,7 @@ brew libtool
 brew libusb
 brew libusb-compat
 brew libvo-aacenc
+brew libxml2
 brew libyaml
 brew lv
 brew mackup
