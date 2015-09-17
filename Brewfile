@@ -104,7 +104,6 @@ brew gauche
 brew gcc
 brew gdbm
 brew gettext
-brew ghc
 brew giflib
 brew gist
 brew git
