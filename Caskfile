@@ -1,0 +1,196 @@
+# Cask applications
+# Please copy these lines to your Brewfile and use with `brew file install`.
+
+# Main tap repository for brew-cask
+install caskroom/cask/brew-cask
+
+# Apps installed by Cask in brew-cask
+cask install adobe-creative-cloud #/Applications/Adobe Creative Cloud
+#cask install adobe-creative-cloud #/Applications/Utilities/Adobe Creative Cloud
+cask install alfred #~/Applications/Alfred 2.app
+#cask install alfred #~/Applications/Alfred Preferences.app
+cask install amazon-cloud-drive #~/Applications/Amazon Cloud Drive App.app
+cask install android-studio #~/Applications/Android Studio.app
+cask install appcleaner #~/Applications/AppCleaner.app
+cask install atom #~/Applications/Atom.app
+cask install bittorrent-sync #~/Applications/BitTorrent Sync.app
+cask install coteditor #~/Applications/CotEditor.app
+cask install dropbox #~/Applications/Dropbox.app
+cask install github-desktop #~/Applications/GitHub Desktop.app
+cask install google-chrome #/Applications/Google Chrome.app
+cask install google-drive #~/Applications/Google Drive.app
+cask install google-photos-backup #/Applications/Google Photos Backup.app
+cask install google-web-designer #~/Applications/Google Web Designer.app
+cask install handbrake #~/Applications/HandBrake.app
+cask install imagealpha #~/Applications/ImageAlpha.app
+cask install imageoptim #~/Applications/ImageOptim.app
+cask install intellij-idea #/Applications/IntelliJ IDEA 14.app
+cask install iterm2 #~/Applications/iTerm.app
+cask install karabiner #/Applications/Karabiner.app
+cask install kindle #/Applications/Kindle.app
+cask install libreoffice #~/Applications/LibreOffice.app
+cask install mactex #/Applications/TeX
+cask install mendeley-desktop #~/Applications/Mendeley Desktop.app
+cask install miro-video-converter #~/Applications/Miro Video Converter.app
+cask install omnigraffle #~/Applications/OmniGraffle.app
+cask install omnioutliner #~/Applications/OmniOutliner.app
+cask install omnipresence #~/Applications/OmniPresence.app
+cask install opera #~/Applications/Opera.app
+cask install processing #~/Applications/Processing.app
+cask install scrivener #~/Applications/Scrivener.app
+cask install send-to-kindle #/Applications/Send to Kindle
+cask install skype #~/Applications/Skype.app
+cask install sourcetree #~/Applications/SourceTree.app
+cask install sublime-text #/Applications/Sublime Text 2.app
+cask install textmate #~/Applications/TextMate.app
+cask install toggldesktop #/Applications/TogglDesktop.app
+cask install transmit #~/Applications/Transmit.app
+cask install visual-studio-code #~/Applications/Visual Studio Code.app
+cask install vivaldi #~/Applications/Vivaldi.app
+cask install vlc #~/Applications/VLC.app
+cask install xquartz #/Applications/Utilities/XQuartz.app
+# There are new version for following applications.
+cask install virtualbox #/Applications/VirtualBox.app
+
+# Cask is found, but no applications are found (could be fonts, system settins, or installed in other directory.
+cask install chefdk
+cask install gmvault
+cask install google-earth
+cask install haskell-platform
+cask install vagrant
+
+# Apps installed directly instead of by Cask in brew-cask
+#cask install adobe-photoshop-cc #/Applications/Utilities/Adobe Installers
+#cask install cloud #/Applications/CloudApp.app
+#cask install powerphotos #/Applications/Photos.app
+#cask install scratch #/Applications/Utilities/Adobe AIR Application Installer.app
+#cask install skala-preview #/Applications/Preview.app
+
+# Casks in caskroom/versions
+tap caskroom/versions
+
+# Apps installed by Cask in caskroom/versions
+cask install firefox-ja #/Applications/Firefox.app
+#cask install firefox-ja #~/Applications/Firefox.app
+cask install firefoxdeveloperedition-ja #~/Applications/FirefoxDeveloperEdition.app
+cask install sublime-text-dev #~/Applications/Sublime Text.app
+
+# Apps installed directly instead of by Cask in caskroom/versions
+#cask install microsoft-office-preview #/Applications/Microsoft Excel.app
+#cask install microsoft-office-preview #/Applications/Microsoft OneNote.app
+#cask install microsoft-office-preview #/Applications/Microsoft Outlook.app
+#cask install microsoft-office-preview #/Applications/Microsoft PowerPoint.app
+#cask install microsoft-office-preview #/Applications/Microsoft Word.app
+
+# Apps installed from AppStore
+#/Applications/1Password.app
+#/Applications/Coda 2.app
+#/Applications/Day One.app
+#/Applications/Evernote.app
+#/Applications/GarageBand.app
+#/Applications/Growl.app
+#/Applications/Hype.app
+#/Applications/iBooks Author.app
+#/Applications/iMovie.app
+#/Applications/iPhoto.app
+#/Applications/Keynote.app
+#/Applications/Kobito.app
+#/Applications/LINE.app
+#/Applications/MindNode Pro.app
+#/Applications/MultiMarkdown Composer.app
+#/Applications/Numbers.app
+#/Applications/OneDrive.app
+#/Applications/Pages.app
+#/Applications/Pixelmator.app
+#/Applications/Pocket.app
+#/Applications/QREncoder.app
+#/Applications/Skitch.app
+#/Applications/SoundCloud.app
+#/Applications/StuffIt Expander.app
+#/Applications/Twitter.app
+#/Applications/Xcode.app
+
+# Apps installed but no casks are available
+# (System applications or directory installed.)
+#/Applications/ABBYY FineReader for ScanSnap
+#/Applications/Adobe
+#/Applications/Adobe Acrobat 9 Pro
+#/Applications/Adobe Bridge CS5
+#/Applications/Adobe Device Central CS5
+#/Applications/Adobe Dreamweaver CS5
+#/Applications/Adobe Edge Code CC.app
+#/Applications/Adobe Extension Manager CS5
+#/Applications/Adobe Fireworks CS5
+#/Applications/Adobe Flash Catalyst CS5
+#/Applications/Adobe Flash CC 2015
+#/Applications/Adobe Flash CS5
+#/Applications/Adobe Illustrator CS5
+#/Applications/Adobe InDesign CS5
+#/Applications/Adobe Media Encoder CC 2015
+#/Applications/Adobe Media Encoder CS5
+#/Applications/Adobe Media Player.app
+#/Applications/Adobe Photoshop CS5
+#/Applications/Apache Flex
+#/Applications/App Store.app
+#/Applications/Automator.app
+#/Applications/Calculator.app
+#/Applications/Calendar.app
+#/Applications/CardMinder
+#/Applications/Chess.app
+#/Applications/Contacts.app
+#/Applications/Dashboard.app
+#/Applications/Dictionary.app
+#/Applications/DVD Player.app
+#/Applications/FaceTime.app
+#/Applications/FlashDecompiler.app
+#/Applications/Font Book.app
+#/Applications/Game Center.app
+#/Applications/GoogleJapaneseInput.localized
+#/Applications/iBooks.app
+#/Applications/Image Capture.app
+#/Applications/iMovie 9.0.9
+#/Applications/iTunes.app
+#/Applications/iWork '09
+#/Applications/Launchpad.app
+#/Applications/Mail.app
+#/Applications/MainUI.app
+#/Applications/Maps.app
+#/Applications/Messages.app
+#/Applications/Microsoft Messenger.app
+#/Applications/Mission Control.app
+#/Applications/Notes.app
+#/Applications/OmniFocus.localized
+#/Applications/Photo Booth.app
+#/Applications/QuickTime Player.app
+#/Applications/Reminders.app
+#/Applications/Remote Desktop Connection.app
+#/Applications/Roland
+#/Applications/Safari.app
+#/Applications/ScanSnap
+#/Applications/ScanSnap Online Update.localized
+#/Applications/Stickies.app
+#/Applications/System Preferences.app
+#/Applications/TextEdit.app
+#/Applications/Time Machine.app
+#/Applications/Utilities/Activity Monitor.app
+#/Applications/Utilities/Adobe AIR Uninstaller.app
+#/Applications/Utilities/Adobe Application Manager
+#/Applications/Utilities/Adobe Flash Player Install Manager.app
+#/Applications/Utilities/Adobe Utilities-CS5.localized
+#/Applications/Utilities/Adobe Utilities.localized
+#/Applications/Utilities/AirPort Utility.app
+#/Applications/Utilities/Audio MIDI Setup.app
+#/Applications/Utilities/Bluetooth File Exchange.app
+#/Applications/Utilities/Boot Camp Assistant.app
+#/Applications/Utilities/ColorSync Utility.app
+#/Applications/Utilities/Console.app
+#/Applications/Utilities/Digital Color Meter.app
+#/Applications/Utilities/Disk Utility.app
+#/Applications/Utilities/Grab.app
+#/Applications/Utilities/Grapher.app
+#/Applications/Utilities/Keychain Access.app
+#/Applications/Utilities/Migration Assistant.app
+#/Applications/Utilities/Script Editor.app
+#/Applications/Utilities/System Information.app
+#/Applications/Utilities/Terminal.app
+#/Applications/Utilities/VoiceOver Utility.app
