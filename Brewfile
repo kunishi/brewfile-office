@@ -38,6 +38,7 @@ cask send-to-kindle
 cask skype
 cask sourcetree
 cask textmate
+cask thunderbird
 cask transmit
 cask vagrant
 cask virtualbox
