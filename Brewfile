@@ -52,7 +52,6 @@ tap caskroom/versions
 cask firefox-ja
 cask firefoxdeveloperedition-ja
 cask sublime-text-dev
-cask thunderbird-ja
 
 ## homebrew/dupes
 tap homebrew/dupes
