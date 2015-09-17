@@ -49,7 +49,6 @@ cask install visual-studio-code #~/Applications/Visual Studio Code.app
 cask install vivaldi #~/Applications/Vivaldi.app
 cask install vlc #~/Applications/VLC.app
 cask install xquartz #/Applications/Utilities/XQuartz.app
-# There are new version for following applications.
 cask install virtualbox #/Applications/VirtualBox.app
 
 # Cask is found, but no applications are found (could be fonts, system settins, or installed in other directory.
