@@ -24,6 +24,7 @@ cask haskell-platform
 cask imagealpha
 cask imageoptim
 cask iterm2
+cask java
 cask karabiner
 cask libreoffice
 cask mactex
