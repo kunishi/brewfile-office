@@ -56,13 +56,10 @@ cask sublime-text-dev
 
 ## homebrew/dupes
 tap homebrew/dupes
-brew gdb
-brew zlib
 
 ## homebrew/php
 tap homebrew/php
 brew boris
-brew composer
 brew php55-mailparse
 brew php55-mcrypt
 brew php55-xdebug
@@ -70,7 +67,6 @@ brew php55
 brew phpcpd
 brew phploc
 brew phpmd
-brew phpunit-skeleton-generator
 brew phpunit
 
 ## homebrew/versions
@@ -93,6 +89,7 @@ brew chromedriver
 brew clisp
 brew cloog
 brew cmake
+brew composer
 brew dirmngr
 brew elixir
 brew erlang
@@ -102,6 +99,7 @@ brew fontconfig
 brew freetype
 brew gauche
 brew gcc
+brew gdb
 brew gdbm
 brew gettext
 brew giflib
@@ -157,6 +155,7 @@ brew ossp-uuid
 brew p7zip
 brew pandoc
 brew pcre
+brew phpunit-skeleton-generator
 brew pinentry
 brew pixman
 brew pkg-config
@@ -187,6 +186,7 @@ brew x264
 brew xmlsh
 brew xvid
 brew xz
+brew zlib
 
 # App Store applications
 appstore 1Password
