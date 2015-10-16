@@ -120,6 +120,7 @@ brew isl
 brew jpeg
 brew julius
 brew lame
+brew leiningen
 brew lftp
 brew libassuan
 brew libffi
