@@ -82,11 +82,15 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew aspcud
 brew autoconf
 brew automake
 brew cairo
+brew camlp4
 brew chromedriver
+brew clasp
 brew clisp
+brew clojurescript
 brew cloog
 brew cmake
 brew composer
@@ -112,6 +116,7 @@ brew gmp
 brew gnupg2
 brew go
 brew gpg-agent
+brew gringo
 brew hg-flow
 brew icu4c
 brew imagemagick
@@ -150,6 +155,7 @@ brew mysql
 brew nkf
 brew objective-caml
 brew ocaml
+brew opam
 brew open-sp
 brew openssl
 brew ossp-uuid
