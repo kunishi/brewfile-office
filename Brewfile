@@ -11,6 +11,7 @@ cask android-studio
 cask appcleaner
 cask atom
 cask bittorrent-sync
+cask brackets
 cask chefdk
 cask coteditor
 cask dropbox
