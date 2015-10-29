@@ -42,6 +42,7 @@ cask skype
 cask sourcetree
 cask textmate
 cask transmit
+cask unetbootin
 cask vagrant
 cask virtualbox
 cask visual-studio-code
