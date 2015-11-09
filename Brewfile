@@ -14,6 +14,7 @@ cask bittorrent-sync
 cask brackets
 cask chefdk
 cask coteditor
+cask drobo-dashboard
 cask dropbox
 cask github-desktop
 cask gmvault
