@@ -88,6 +88,7 @@ brew brew-file
 brew aspcud
 brew autoconf
 brew automake
+brew boost
 brew cairo
 brew camlp4
 brew chromedriver
