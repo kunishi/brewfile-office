@@ -49,6 +49,7 @@ cask virtualbox
 cask visual-studio-code
 cask vivaldi
 cask vlc
+cask wordpresscom
 cask xquartz
 
 ## caskroom/versions
