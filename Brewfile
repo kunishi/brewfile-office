@@ -224,6 +224,7 @@ appstore Pages
 appstore Pixelmator
 appstore Pocket
 appstore QREncoder
+appstore ScanSnap Cloud
 appstore Skitch
 appstore SoundCloud
 appstore StuffIt Expander
