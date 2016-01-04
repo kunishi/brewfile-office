@@ -54,6 +54,7 @@ cask xquartz
 
 ## caskroom/fonts
 tap caskroom/fonts
+cask font-source-han-code-jp
 
 ## caskroom/versions
 tap caskroom/versions
