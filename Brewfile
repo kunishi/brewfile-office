@@ -52,6 +52,9 @@ cask vlc
 cask wordpresscom
 cask xquartz
 
+## caskroom/fonts
+tap caskroom/fonts
+
 ## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
