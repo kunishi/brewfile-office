@@ -6,7 +6,6 @@ tap caskroom/cask
 brew brew-cask
 cask adobe-air
 cask alfred
-cask amazon-cloud-drive
 cask android-studio
 cask appcleaner
 cask atom
