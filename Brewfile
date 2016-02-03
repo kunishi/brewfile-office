@@ -15,6 +15,7 @@ cask chefdk
 cask coteditor
 cask drobo-dashboard
 cask dropbox
+cask flux
 cask github-desktop
 cask gmvault
 cask google-drive
