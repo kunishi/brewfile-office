@@ -20,6 +20,7 @@ cask github-desktop
 cask gmvault
 cask google-drive
 cask google-earth
+cask google-hangouts
 cask google-web-designer
 cask handbrake
 cask haskell-platform
