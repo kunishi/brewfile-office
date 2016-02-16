@@ -180,6 +180,7 @@ brew postgresql
 brew potrace
 brew pth
 brew pwgen
+brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
 brew pyside
