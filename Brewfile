@@ -1,6 +1,9 @@
 
 # tap repositories and their packages
 
+tap argon/mas
+brew mas
+
 tap caskroom/cask
 brew brew-cask
 cask adobe-air
@@ -81,9 +84,6 @@ brew peco
 
 tap rcmdnk/file
 brew brew-file
-
-tap argon/mas
-brew mas
 
 # Other Homebrew packages
 brew aspcud
