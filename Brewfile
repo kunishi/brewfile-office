@@ -1,7 +1,6 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
 brew brew-cask
 cask adobe-air
@@ -53,20 +52,16 @@ cask vlc
 cask wordpresscom
 cask xquartz
 
-## caskroom/fonts
 tap caskroom/fonts
 cask font-source-han-code-jp
 
-## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
 cask firefoxdeveloperedition-ja
 cask sublime-text-dev
 
-## homebrew/dupes
 tap homebrew/dupes
 
-## homebrew/php
 tap homebrew/php
 brew boris
 brew php55-mailparse
@@ -78,17 +73,17 @@ brew phploc
 brew phpmd
 brew phpunit
 
-## homebrew/versions
 tap homebrew/versions
 brew perl516
 
-## peco/peco
 tap peco/peco
 brew peco
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
+
+tap argon/mas
+brew mas
 
 # Other Homebrew packages
 brew aspcud
@@ -209,32 +204,38 @@ brew xz
 brew zlib
 
 # App Store applications
-appstore 1Password
-appstore CloudApp
-appstore Coda 2
-appstore Day One
-appstore Evernote
-appstore GarageBand
-appstore Growl
-appstore Hype
-appstore iA Writer
-appstore iBooks Author
-appstore iMovie
-appstore iPhoto
-appstore Keynote
-appstore Kobito
-appstore LINE
-appstore MindNode Pro
-appstore MultiMarkdown Composer
-appstore Numbers
-appstore OneDrive
-appstore Pages
-appstore Pixelmator
-appstore Pocket
-appstore QREncoder
-appstore ScanSnap Cloud
-appstore Skitch
-appstore SoundCloud
-appstore StuffIt Expander
-appstore Twitter
-appstore Xcode
+appstore 443987910 1Password
+appstore 417602904 CloudApp
+appstore 499340368 Coda 2
+appstore 1055511498 Day One
+appstore 422304217 Day One
+appstore 406056744 Evernote
+appstore 408980954 GarageBand
+appstore 467939042 Growl
+appstore 436931759 Hype
+appstore 409183694 Keynote
+appstore 409183694 Keynote
+appstore 896624060 Kobito
+appstore 539883307 LINE
+appstore 402398561 MindNode Pro
+appstore 593294811 MultiMarkdown Composer
+appstore 409203825 Numbers
+appstore 409203825 Numbers
+appstore 867299399 OmniFocus
+appstore 823766827 OneDrive
+appstore 409201541 Pages
+appstore 409201541 Pages
+appstore 407963104 Pixelmator
+appstore 568494494 Pocket
+appstore 452695239 QREncoder
+appstore 1035516352 ScanSnap Cloud
+appstore 425955336 Skitch
+appstore 412754595 SoundCloud
+appstore 405580712 StuffIt Expander
+appstore 409789998 Twitter
+appstore 497799835 Xcode
+appstore 775737590 iA Writer
+appstore 490152466 iBooks Author
+appstore 408981434 iMovie
+appstore 408981434 iMovie 9.0.9
+appstore 408981381 iPhoto
