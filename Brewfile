@@ -230,6 +230,7 @@ appstore 568494494 Pocket
 appstore 452695239 QREncoder
 appstore 1035516352 ScanSnap Cloud
 appstore 425955336 Skitch
+appstore 803453959 Slack
 appstore 412754595 SoundCloud
 appstore 405580712 StuffIt Expander
 appstore 409789998 Twitter
