@@ -152,6 +152,7 @@ brew mackup
 brew mcrypt
 brew mecab
 brew mecab-ipadic
+brew mecab-unidic
 brew mercurial
 brew mhash
 brew mongodb
