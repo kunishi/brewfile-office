@@ -209,7 +209,6 @@ appstore 443987910 1Password
 appstore 417602904 CloudApp
 appstore 499340368 Coda 2
 appstore 1055511498 Day One
-appstore 422304217 Day One
 appstore 406056744 Evernote
 appstore 408980954 GarageBand
 appstore 467939042 Growl
