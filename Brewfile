@@ -86,6 +86,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew asciidoc
 brew aspcud
 brew autoconf
 brew automake
@@ -100,6 +101,8 @@ brew cloog
 brew cmake
 brew composer
 brew dirmngr
+brew docbook
+brew docbook-xsl
 brew elixir
 brew erlang
 brew faac
