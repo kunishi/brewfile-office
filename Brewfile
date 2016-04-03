@@ -63,29 +63,7 @@ cask firefox-ja
 cask firefoxdeveloperedition-ja
 cask sublime-text-dev
 
-tap homebrew/dupes
-
-tap homebrew/php
-brew boris
-brew php55-mailparse
-brew php55-mcrypt
-brew php55-xdebug
-brew php55
-brew phpcpd
-brew phploc
-brew phpmd
-brew phpunit
-
-tap homebrew/versions
-brew perl516
-
-tap peco/peco
-brew peco
-
-tap rcmdnk/file
-brew brew-file
-
-# Other Homebrew packages
+tap homebrew/core
 brew asciidoc
 brew aspcud
 brew autoconf
@@ -93,17 +71,13 @@ brew automake
 brew boost
 brew cairo
 brew camlp4
-brew chromedriver
 brew clasp
 brew clisp
 brew clojurescript
 brew cloog
 brew cmake
-brew composer
-brew dirmngr
-brew docbook
 brew docbook-xsl
-brew elixir
+brew docbook
 brew erlang
 brew faac
 brew ffmpeg
@@ -114,11 +88,9 @@ brew gcc
 brew gdb
 brew gdbm
 brew gettext
-brew giflib
 brew gist
-brew git
 brew git-flow
-brew glib
+brew git
 brew global
 brew gmp
 brew gnupg2
@@ -138,14 +110,12 @@ brew lftp
 brew libassuan
 brew libffi
 brew libgcrypt
-brew libgpg-error
 brew libksba
 brew libmpc
 brew libpng
 brew libsigsegv
 brew libtiff
 brew libtool
-brew libusb
 brew libusb-compat
 brew libvo-aacenc
 brew libxml2
@@ -153,16 +123,12 @@ brew libyaml
 brew lv
 brew mackup
 brew mcrypt
-brew mecab
 brew mecab-ipadic
 brew mecab-unidic
 brew mercurial
 brew mhash
-brew mongodb
-brew mpfr
 brew mysql
 brew nkf
-brew objective-caml
 brew ocaml
 brew opam
 brew open-sp
@@ -171,7 +137,7 @@ brew ossp-uuid
 brew p7zip
 brew pandoc
 brew pcre
-brew phpunit-skeleton-generator
+brew peco
 brew pinentry
 brew pixman
 brew pkg-config
@@ -179,9 +145,8 @@ brew postgresql
 brew potrace
 brew pth
 brew pwgen
-brew pyenv
 brew pyenv-virtualenv
-brew pyenv-virtualenvwrapper
+brew pyenv
 brew pyside
 brew python
 brew qt
@@ -205,6 +170,43 @@ brew x264
 brew xmlsh
 brew xvid
 brew xz
+
+tap homebrew/dupes
+
+tap homebrew/php
+brew boris
+brew php55-mailparse
+brew php55-mcrypt
+brew php55-xdebug
+brew php55
+brew phpcpd
+brew phploc
+brew phpmd
+brew phpunit
+
+tap homebrew/versions
+brew perl516
+
+tap peco/peco
+
+tap rcmdnk/file
+brew brew-file
+
+# Other Homebrew packages
+brew chromedriver
+brew composer
+brew dirmngr
+brew elixir
+brew giflib
+brew glib
+brew libgpg-error
+brew libusb
+brew mecab
+brew mongodb
+brew mpfr
+brew objective-caml
+brew phpunit-skeleton-generator
+brew pyenv-virtualenvwrapper
 brew zlib
 
 # App Store applications
