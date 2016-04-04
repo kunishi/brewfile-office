@@ -161,6 +161,7 @@ brew smlnj
 brew sqlite
 brew swfmill
 brew tree
+brew uncrustify
 brew unixodbc
 brew vim
 brew webp
