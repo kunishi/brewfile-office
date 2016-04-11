@@ -33,6 +33,7 @@ cask java
 cask karabiner
 cask libreoffice
 cask mactex
+cask macvim
 cask mendeley-desktop
 cask miro-video-converter
 cask omnigraffle
