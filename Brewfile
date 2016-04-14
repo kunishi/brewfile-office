@@ -69,6 +69,7 @@ brew asciidoc
 brew aspcud
 brew autoconf
 brew automake
+brew boost-python
 brew boost
 brew cairo
 brew camlp4
@@ -79,6 +80,7 @@ brew cloog
 brew cmake
 brew docbook-xsl
 brew docbook
+brew eigen
 brew erlang
 brew faac
 brew ffmpeg
@@ -89,10 +91,12 @@ brew gcc
 brew gdb
 brew gdbm
 brew gettext
+brew gflags
 brew gist
 brew git-flow
 brew git
 brew global
+brew glog
 brew gmp
 brew gnupg2
 brew go
@@ -100,6 +104,7 @@ brew gpg-agent
 brew gringo
 brew hg-flow
 brew icu4c
+brew ilmbase
 brew imagemagick
 brew ios-sim
 brew isl
@@ -144,6 +149,7 @@ brew pixman
 brew pkg-config
 brew postgresql
 brew potrace
+brew protobuf
 brew pth
 brew pwgen
 brew pyenv-virtualenv
@@ -159,8 +165,11 @@ brew scala
 brew selenium-server-standalone
 brew shiboken
 brew smlnj
+brew snappy
+brew sphinx-doc
 brew sqlite
 brew swfmill
+brew szip
 brew tree
 brew uncrustify
 brew unixodbc
@@ -186,6 +195,13 @@ brew phploc
 brew phpmd
 brew phpunit
 
+tap homebrew/python
+brew numpy
+
+tap homebrew/science
+brew hdf5
+brew opencv
+
 tap homebrew/versions
 brew perl516
 
@@ -201,12 +217,15 @@ brew dirmngr
 brew elixir
 brew giflib
 brew glib
+brew leveldb
 brew libgpg-error
 brew libusb
+brew lmdb
 brew mecab
 brew mongodb
 brew mpfr
 brew objective-caml
+brew openexr
 brew phpunit-skeleton-generator
 brew pyenv-virtualenvwrapper
 brew zlib
