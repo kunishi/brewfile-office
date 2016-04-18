@@ -200,6 +200,7 @@ brew numpy
 
 tap homebrew/science
 brew hdf5
+brew openblas
 brew opencv
 
 tap homebrew/versions
