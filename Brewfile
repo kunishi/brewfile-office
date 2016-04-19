@@ -78,6 +78,7 @@ brew clisp
 brew clojurescript
 brew cloog
 brew cmake
+brew cpputest
 brew docbook-xsl
 brew docbook
 brew eigen
