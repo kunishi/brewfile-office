@@ -5,7 +5,6 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
-brew brew-cask
 cask adobe-air
 cask alfred
 cask android-studio
@@ -231,11 +230,6 @@ brew openexr
 brew phpunit-skeleton-generator
 brew pyenv-virtualenvwrapper
 brew zlib
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask Uninstalling brew-cask... (4 files, 7.9K)
 
 # App Store applications
 appstore 443987910 1Password
