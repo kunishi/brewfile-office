@@ -232,6 +232,11 @@ brew phpunit-skeleton-generator
 brew pyenv-virtualenvwrapper
 brew zlib
 
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask Uninstalling brew-cask... (4 files, 7.9K)
+
 # App Store applications
 appstore 443987910 1Password
 appstore 417602904 CloudApp
