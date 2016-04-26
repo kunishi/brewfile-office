@@ -170,6 +170,7 @@ brew sphinx-doc
 brew sqlite
 brew swfmill
 brew szip
+brew tidy-html5
 brew tree
 brew uncrustify
 brew unixodbc
