@@ -68,6 +68,7 @@ brew asciidoc
 brew aspcud
 brew autoconf
 brew automake
+brew bash-completion
 brew boost-python
 brew boost
 brew cairo
