@@ -137,6 +137,7 @@ brew mhash
 brew mysql
 brew nkf
 brew ocaml
+brew ocamlbuild
 brew opam
 brew open-sp
 brew openssl
