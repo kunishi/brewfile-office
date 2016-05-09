@@ -73,15 +73,18 @@ brew boost-python
 brew boost
 brew cairo
 brew camlp4
+brew chromedriver
 brew clasp
 brew clisp
 brew clojurescript
 brew cloog
 brew cmake
 brew cpputest
+brew dirmngr
 brew docbook-xsl
 brew docbook
 brew eigen
+brew elixir
 brew erlang
 brew faac
 brew ffmpeg
@@ -93,9 +96,11 @@ brew gdb
 brew gdbm
 brew gettext
 brew gflags
+brew giflib
 brew gist
 brew git-flow
 brew git
+brew glib
 brew global
 brew glog
 brew gmp
@@ -113,10 +118,12 @@ brew jpeg
 brew julius
 brew lame
 brew leiningen
+brew leveldb
 brew lftp
 brew libassuan
 brew libffi
 brew libgcrypt
+brew libgpg-error
 brew libksba
 brew libmpc
 brew libpng
@@ -124,22 +131,28 @@ brew libsigsegv
 brew libtiff
 brew libtool
 brew libusb-compat
+brew libusb
 brew libvo-aacenc
 brew libxml2
 brew libyaml
+brew lmdb
 brew lv
 brew mackup
 brew mcrypt
 brew mecab-ipadic
 brew mecab-unidic
+brew mecab
 brew mercurial
 brew mhash
+brew mongodb
+brew mpfr
 brew mysql
 brew nkf
 brew ocaml
 brew ocamlbuild
 brew opam
 brew open-sp
+brew openexr
 brew openssl
 brew ossp-uuid
 brew p7zip
@@ -155,6 +168,7 @@ brew protobuf
 brew pth
 brew pwgen
 brew pyenv-virtualenv
+brew pyenv-virtualenvwrapper
 brew pyenv
 brew pyside
 brew python
@@ -186,9 +200,11 @@ brew xvid
 brew xz
 
 tap homebrew/dupes
+brew zlib
 
 tap homebrew/php
 brew boris
+brew composer
 brew php55-mailparse
 brew php55-mcrypt
 brew php55-xdebug
@@ -196,6 +212,7 @@ brew php55
 brew phpcpd
 brew phploc
 brew phpmd
+brew phpunit-skeleton-generator
 brew phpunit
 
 tap homebrew/python
@@ -213,26 +230,6 @@ tap peco/peco
 
 tap rcmdnk/file
 brew brew-file
-
-# Other Homebrew packages
-brew chromedriver
-brew composer
-brew dirmngr
-brew elixir
-brew giflib
-brew glib
-brew leveldb
-brew libgpg-error
-brew libusb
-brew lmdb
-brew mecab
-brew mongodb
-brew mpfr
-brew objective-caml
-brew openexr
-brew phpunit-skeleton-generator
-brew pyenv-virtualenvwrapper
-brew zlib
 
 # App Store applications
 appstore 443987910 1Password
