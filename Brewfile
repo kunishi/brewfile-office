@@ -184,6 +184,7 @@ brew smlnj
 brew snappy
 brew sphinx-doc
 brew sqlite
+brew ssh-copy-id
 brew swfmill
 brew szip
 brew tidy-html5
