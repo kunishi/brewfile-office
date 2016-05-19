@@ -242,16 +242,13 @@ appstore 408980954 GarageBand
 appstore 467939042 Growl
 appstore 436931759 Hype
 appstore 409183694 Keynote
-appstore 409183694 Keynote
 appstore 896624060 Kobito
 appstore 539883307 LINE
 appstore 402398561 MindNode Pro
 appstore 593294811 MultiMarkdown Composer
 appstore 409203825 Numbers
-appstore 409203825 Numbers
 appstore 867299399 OmniFocus
 appstore 823766827 OneDrive
-appstore 409201541 Pages
 appstore 409201541 Pages
 appstore 407963104 Pixelmator
 appstore 568494494 Pocket
@@ -266,5 +263,4 @@ appstore 497799835 Xcode
 appstore 775737590 iA Writer
 appstore 490152466 iBooks Author
 appstore 408981434 iMovie
-appstore 408981434 iMovie 9.0.9
 appstore 408981381 iPhoto
