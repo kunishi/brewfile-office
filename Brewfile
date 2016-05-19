@@ -238,7 +238,7 @@ appstore 417602904 CloudApp
 appstore 499340368 Coda 2
 appstore 1055511498 Day One
 appstore 406056744 Evernote
-appstore 408980954 GarageBand
+appstore 682658836 GarageBand
 appstore 467939042 Growl
 appstore 436931759 Hype
 appstore 409183694 Keynote
