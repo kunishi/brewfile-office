@@ -109,6 +109,7 @@ brew go
 brew gpg-agent
 brew gringo
 brew hg-flow
+brew hub
 brew icu4c
 brew ilmbase
 brew imagemagick
