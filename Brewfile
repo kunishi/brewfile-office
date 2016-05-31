@@ -96,6 +96,7 @@ brew gdb
 brew gdbm
 brew gettext
 brew gflags
+brew gibo
 brew giflib
 brew gist
 brew git-flow
