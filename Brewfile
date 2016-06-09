@@ -69,6 +69,7 @@ brew aspcud
 brew autoconf
 brew automake
 brew bash-completion
+brew binutils
 brew boost-python
 brew boost
 brew cairo
