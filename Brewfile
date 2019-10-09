@@ -228,6 +228,7 @@ brew xvid
 brew xz
 brew zeromq
 brew zlib
+brew zsh-completions
 
 tap homebrew/bundle
 
@@ -333,12 +334,12 @@ cask vlc
 # App Store applications
 appstore 417602904  (4.4.3)
 appstore 499340368 Coda (2.0.14)
-appstore 1055511498 Day One (4.1.1)
-appstore 682658836 GarageBand (10.3.2)
+appstore 1055511498 Day One (4.2.0)
+appstore 682658836 GarageBand (10.3.3)
 appstore 436931759 Hype (1.6.2)
 appstore 775737590 iA Writer (5.2.8)
 appstore 490152466 iBooks Author (2.6.1)
-appstore 408981434 iMovie (10.1.12)
+appstore 408981434 iMovie (10.1.13)
 appstore 408981381 iPhoto (9.6.1)
 appstore 409183694 Keynote (9.2)
 appstore 896624060 Kobito (2.3.8)
@@ -358,4 +359,4 @@ appstore 412754595 SoundCloud (1.3.2)
 appstore 405580712 StuffIt Expander (15.0.7)
 appstore 1278508951 Trello (2.11.1)
 appstore 409789998 Twitter (4.3.2)
-appstore 497799835 Xcode (11.0)
+appstore 497799835 Xcode (11.1)
