@@ -73,11 +73,12 @@ brew graphicsmagick
 brew graphite2
 brew gsl
 brew harfbuzz
+brew haskell-stack
 brew hdf5
 brew httpd
 brew hub
 brew hugo
-brew hyperestraier --with-mecab
+brew hyperestraier
 brew icu4c
 brew ilmbase
 brew ios-sim
@@ -136,14 +137,14 @@ brew mackup
 brew mas
 brew mcrypt
 brew mecab
-brew mecab-ipadic --with-charset=
+brew mecab-ipadic
 brew mercurial
 brew metis
 brew mhash
 brew miniupnpc
 brew mpfr
 brew mysql
-brew namazu --with-japanese
+brew namazu
 brew nettle
 brew nghttp2
 brew nkf
@@ -243,14 +244,6 @@ cask font-source-han-sans
 
 tap homebrew/cask-versions
 
-tap homebrew/php
-
-tap homebrew/python
-
-tap homebrew/science
-
-tap homebrew/versions
-
 tap homebrew/cask
 cask adobe-air
 cask alfred
@@ -258,10 +251,10 @@ cask appcleaner
 cask brackets
 cask chromedriver
 cask docker
-cask evernote
-cask gmvault
-cask google-hangouts
-cask handbrake
+cask firefox
+cask github
+cask google-backup-and-sync
+cask google-web-designer
 cask imagealpha
 cask iterm2
 cask libreoffice
@@ -283,6 +276,9 @@ tap argon/mas
 
 tap beeftornado/rmtree
 
+tap chef/chef
+cask chefdk
+
 tap ethereum/ethereum
 
 tap go-delve/delve
@@ -290,35 +286,23 @@ tap go-delve/delve
 tap rcmdnk/file
 brew brew-file
 
-# Other Homebrew packages
-brew chromedriver
-brew delve
-brew dirmngr
-brew gpg-agent
-
 # Other Cask applications
 cask adobe-creative-cloud
 cask android-studio
 cask atom
 cask brave-browser
-cask chefdk
 cask coteditor
-cask dayone-cli
-cask dropbox
-cask firefox
+cask evernote
 cask font-noto-sans
 cask font-noto-serif
 cask font-source-han-code-jp
-cask gitbook-editor
-cask github-desktop
-cask google-backup-and-sync
-cask google-web-designer
-cask haskell-platform
+cask gmvault
+cask google-hangouts
+cask handbrake
 cask imageoptim
 cask java
-cask lacaille
 cask mactex
-cask mendeley-desktop
+cask mendeley-reference-manager
 cask omnigraffle
 cask omnipresence
 cask processing
@@ -332,31 +316,9 @@ cask visual-studio-code
 cask vlc
 
 # App Store applications
-appstore 417602904  (4.4.3)
-appstore 499340368 Coda (2.0.14)
-appstore 1055511498 Day One (4.2.0)
-appstore 682658836 GarageBand (10.3.3)
-appstore 436931759 Hype (1.6.2)
-appstore 775737590 iA Writer (5.2.8)
-appstore 490152466 iBooks Author (2.6.1)
-appstore 408981434 iMovie (10.1.13)
-appstore 408981381 iPhoto (9.6.1)
-appstore 409183694 Keynote (9.2)
-appstore 896624060 Kobito (2.3.8)
-appstore 539883307 LINE (5.19.0)
-appstore 1282504627 Mimeo Photos (3.7.1)
-appstore 402398561 MindNode Pro (1.11.5)
-appstore 593294811 MultiMarkdown Composer (2.9)
-appstore 409203825 Numbers (6.2)
-appstore 867299399 OmniFocus (2.12.4)
-appstore 823766827 OneDrive (19.152.0801)
-appstore 409201541 Pages (8.2)
-appstore 407963104 Pixelmator (3.8.6)
-appstore 568494494 Pocket (1.8.4)
-appstore 452695239 QREncoder (1.5)
-appstore 425955336 Skitch (2.8.4)
-appstore 412754595 SoundCloud (1.3.2)
-appstore 405580712 StuffIt Expander (15.0.7)
-appstore 1278508951 Trello (2.11.1)
-appstore 409789998 Twitter (4.3.2)
+appstore 682658836 GarageBand (10.3.2)
+appstore 408981434 iMovie (10.1.11)
+appstore 409183694 Keynote (9.0.1)
+appstore 409203825 Numbers (6.0)
+appstore 409201541 Pages (8.0)
 appstore 497799835 Xcode (11.1)
